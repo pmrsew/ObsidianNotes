@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Creating React Application.md",
-            "mode": "preview",
+            "file": "React/Unsorted Notes.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -72,29 +72,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8b149e73c825598",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "React/Creating React Application.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "7ab04ba5acbc5d59",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Creating React Application.md",
+                "file": "React/Unsorted Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Creating React Application.md"
+                "file": "React/Unsorted Notes.md"
               }
             }
           }
@@ -128,6 +111,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23c692497c43305d",
-  "lastOpenFiles": []
+  "active": "f78cf5359a793e77",
+  "lastOpenFiles": [
+    "React/Creating React Application.md",
+    "React/Unsorted Notes.md",
+    "2022-08-11.md",
+    "React/React Hooks.md",
+    "React/Destructuring In React.md"
+  ]
 }

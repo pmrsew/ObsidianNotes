@@ -176,3 +176,5 @@ function App() {
 }
 ```
 
+## Handling Forms in React
+### Working with uncontrolled components

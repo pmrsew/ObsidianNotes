@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f78cf5359a793e77",
+        "id": "0b493af516179447",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/Unsorted Notes.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Unsorted Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -100,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/Unsorted Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,15 +113,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23c692497c43305d",
+  "active": "0b493af516179447",
   "lastOpenFiles": [
-    "React/React Hooks.md",
-    "React/Destructuring In React.md",
-    "React/Creating React Application.md",
+    "React/Unsorted Notes.md",
     "React/02_Courses.md",
     "React/01_Links.md",
+    "React/Creating React Application.md",
+    "React/Destructuring In React.md",
+    "React/React Hooks.md",
     "Untitled.md",
-    "React/Unsorted Notes.md",
     "().md",
     "2022-08-11.md"
   ]

@@ -7,8 +7,13 @@
         "id": "0b493af516179447",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -115,13 +123,13 @@
   },
   "active": "0b493af516179447",
   "lastOpenFiles": [
-    "React/Unsorted Notes.md",
-    "React/02_Courses.md",
     "React/01_Links.md",
+    "README.md",
+    "React/02_Courses.md",
+    "React/UnsortedNotesFromLILReactEssentialTraining.md",
     "React/Creating React Application.md",
     "React/Destructuring In React.md",
     "React/React Hooks.md",
-    "Untitled.md",
     "().md",
     "2022-08-11.md"
   ]

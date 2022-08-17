@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "React/Components.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "React/Components.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "React/Components.md"
               }
             }
           },
@@ -123,14 +123,15 @@
   },
   "active": "0b493af516179447",
   "lastOpenFiles": [
-    "React/01_Links.md",
+    "React/Hooks.md",
+    "React/Components.md",
     "README.md",
-    "React/02_Courses.md",
-    "React/UnsortedNotesFromLILReactEssentialTraining.md",
-    "React/Creating React Application.md",
+    "React/React Router.md",
+    "React/Forms (Uncontrolled and Controlled Components).md",
     "React/Destructuring In React.md",
-    "React/React Hooks.md",
-    "().md",
-    "2022-08-11.md"
+    "React/Creating React Application.md",
+    "React/Asynchronous Data (API, GraphQL).md",
+    "React/UnsortedNotesFromLILReactEssentialTraining.md",
+    "React/02_Courses.md"
   ]
 }

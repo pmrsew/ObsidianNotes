@@ -123,15 +123,15 @@
   },
   "active": "0b493af516179447",
   "lastOpenFiles": [
-    "React/01_Links.md",
-    "README.md",
-    "React/Destructuring In React.md",
-    "ObsidianNotes/react/01_links.md",
-    "React/Components.md",
-    "React/Hooks.md",
     "React/React Router.md",
+    "React/UnsortedNotesFromLILReactEssentialTraining.md",
+    "React/Asynchronous Data (API, GraphQL).md",
+    "README.md",
+    "React/Hooks.md",
     "React/Forms (Uncontrolled and Controlled Components).md",
+    "React/Destructuring In React.md",
     "React/Creating React Application.md",
-    "React/Asynchronous Data (API, GraphQL).md"
+    "React/Components.md",
+    "React/01_Links.md"
   ]
 }

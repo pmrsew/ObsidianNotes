@@ -8,3 +8,4 @@
 | W3Schools     | [React Hooks](https://www.w3schools.com/react/react_hooks.asp)                                                     |                          |
 | YouTube       | [Full Modern React Tutorial](https://fullstackopen.com/en/)                                                        | Net Ninja, 32 videos     |
 | Youtube       | [Creating a React + Spring Boot Web App](https://www.youtube.com/playlist?list=PL2OrQJM8zmZ2-O_rM2Ju9zYMbY8Ta-8I4) | Coders Campus, 46 videos |
+| Youtube       | [Redux Tutorial](https://www.youtube.com/watch?v=zrs7u6bdbUw&ab_channel=freeCodeCamp.org)                                                                                                                   |                          |

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "React/UnsortedNotesFromScrimbaReactCourse.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "6fa390255349b0d7",
@@ -78,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "React/UnsortedNotesFromScrimbaReactCourse.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "React/UnsortedNotesFromScrimbaReactCourse.md"
               }
             }
           },
@@ -123,15 +124,15 @@
   },
   "active": "0b493af516179447",
   "lastOpenFiles": [
-    "React/Asynchronous Data (API, GraphQL).md",
-    "README.md",
-    "React/React Router.md",
-    "React/UnsortedNotesFromLILReactEssentialTraining.md",
     "React/Hooks.md",
-    "React/Forms (Uncontrolled and Controlled Components).md",
+    "React/UnsortedNotesFromScrimbaReactCourse.md",
     "React/Destructuring In React.md",
+    "React/Forms (Uncontrolled and Controlled Components).md",
     "React/Creating React Application.md",
+    "React/UnsortedNotesFromLILReactEssentialTraining.md",
     "React/Components.md",
-    "React/01_Links.md"
+    "React/01_Links.md",
+    "README.md",
+    "React/Asynchronous Data (API, GraphQL).md"
   ]
 }

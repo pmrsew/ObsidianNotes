@@ -124,15 +124,15 @@
   },
   "active": "0b493af516179447",
   "lastOpenFiles": [
-    "React/Hooks.md",
+    "React/01_Links.md",
+    "React/02_Courses.md",
+    "React/Asynchronous Data (API, GraphQL).md",
     "React/UnsortedNotesFromScrimbaReactCourse.md",
     "React/Destructuring In React.md",
+    "React/Hooks.md",
     "React/Forms (Uncontrolled and Controlled Components).md",
     "React/Creating React Application.md",
     "React/UnsortedNotesFromLILReactEssentialTraining.md",
-    "React/Components.md",
-    "React/01_Links.md",
-    "README.md",
-    "React/Asynchronous Data (API, GraphQL).md"
+    "React/Components.md"
   ]
 }

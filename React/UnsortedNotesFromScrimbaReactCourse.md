@@ -251,6 +251,7 @@ dist/assets/index.a06e789f.js              141.96 KiB / gzip: 46.63 KiB
 ```
 
 ## Props
+- Props referes to the properties being passed into a component in order for it to work correctly, similary to how a function receieves parameters: "from above." A component receiving props is not allowed to modify those props.
 - Props make components more resuable (only used by React components, custom props won't work with native DOM elements (lowercase elements))
 - Properties are assigned to React componenets when they are called to be rendered
 	- Strings can be used by wrapping quotes
@@ -380,3 +381,21 @@ export default function App() {
 }
 ```
 
+## State
+- State referes to values that are similar to variables declared inside a function. Any time you have changing values that should be saved/displayed, you'll likely be using state. (similar to declaring variables from within a component)
+- `useState` function is used to handle state
+	- Pass in initial value
+	- Returns an array of two values: current state value and a function to update that value
+- Note: if you ever need the old value of state to help you determine the new value of state, you should pass a callback function to your state setter function instead of using state directly. This callback function will receive the old value of state as its parameter, which you can then use to determine your new value of state.
+```
+const [count, setCount] = React.useState(0)
+
+function add(){
+	setcount(count+1)
+}
+
+function addBestPractice() {
+	setCount(prevCount => prevCount + 1)
+}
+```
+- 

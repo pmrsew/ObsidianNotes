@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0b493af516179447",
+        "id": "b645809937b4076f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/UnsortedNotesFromScrimbaReactCourse.md",
+            "file": "React/Redux.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/UnsortedNotesFromScrimbaReactCourse.md",
+                "file": "React/Redux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/UnsortedNotesFromScrimbaReactCourse.md"
+                "file": "React/Redux.md"
               }
             }
           },
@@ -122,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b493af516179447",
+  "active": "b645809937b4076f",
   "lastOpenFiles": [
     "React/01_Links.md",
-    "React/02_Courses.md",
-    "React/Asynchronous Data (API, GraphQL).md",
     "React/UnsortedNotesFromScrimbaReactCourse.md",
-    "React/Destructuring In React.md",
-    "React/Hooks.md",
-    "React/Forms (Uncontrolled and Controlled Components).md",
+    "README.md",
+    "React/Asynchronous Data (API, GraphQL).md",
+    "React/02_Courses.md",
     "React/Creating React Application.md",
+    "React/Forms (Uncontrolled and Controlled Components).md",
+    "React/Hooks.md",
     "React/UnsortedNotesFromLILReactEssentialTraining.md",
-    "React/Components.md"
+    "React/Destructuring In React.md"
   ]
 }

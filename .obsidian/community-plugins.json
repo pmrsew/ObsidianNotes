@@ -1,7 +1,6 @@
 [
-  "cm-editor-syntax-highlight-obsidian",
-  "highlightr-plugin",
   "table-editor-obsidian",
   "obsidian-auto-link-title",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "cm-editor-syntax-highlight-obsidian"
 ]

@@ -1,2 +1,3 @@
 # Table of Contents
-## [React](./React/)
+##### Formatting note: make sure to end with double space
+## [React](./React/)  

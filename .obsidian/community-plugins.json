@@ -1,6 +1,7 @@
 [
-  "code-block-copy",
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-auto-link-title",
+  "wikilinks-to-mdlinks-obsidian"
 ]

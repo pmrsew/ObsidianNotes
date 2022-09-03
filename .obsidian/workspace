@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Redux.md",
+            "file": "React/README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "6fa390255349b0d7",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux.md",
+                "file": "React/README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux.md"
+                "file": "React/README.md"
               }
             }
           },
@@ -124,15 +123,15 @@
   },
   "active": "b645809937b4076f",
   "lastOpenFiles": [
+    "React/Forms_Uncontrolled-and-Controlled-Components.md",
+    "React/README.md",
+    "README.md",
+    "React/02_Courses.md",
     "React/01_Links.md",
     "React/UnsortedNotesFromScrimbaReactCourse.md",
-    "README.md",
-    "React/Asynchronous Data (API, GraphQL).md",
-    "React/02_Courses.md",
-    "React/Creating React Application.md",
-    "React/Forms (Uncontrolled and Controlled Components).md",
-    "React/Hooks.md",
     "React/UnsortedNotesFromLILReactEssentialTraining.md",
-    "React/Destructuring In React.md"
+    "React/Redux.md",
+    "React/React-Router.md",
+    "React/Hooks.md"
   ]
 }

@@ -27,7 +27,7 @@ ReactDOM.render(<h1>Hello, everyone!</h1>, document.getElementById("root"))
 ```
 
 ## Create React App - Correct Way:
-[[Creating React Application]]
+[[New-React-App]]
 
 ### Using Vite
 Why use Vite?

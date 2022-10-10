@@ -1,6 +1,6 @@
 # Creating React Application
 
-## Use terminal to generate React application
+## **create-react-app**
 
 1. Check for installations of Node.js and NPM
 2. Use `npx create-react-app [enter folder name]` to create an app under the name provided
@@ -99,7 +99,8 @@ To create a production build, use npm run build.
 
 webpack compiled successfully
 ```
-## Notes on Files Generated
+
+### Notes on Files Generated
 ### `package.json`
 ```
 "dependencies": {
@@ -129,3 +130,106 @@ webpack compiled successfully
 - Contains App() function and exports it as the default
 - As changes are made and saved, the browser will update accordingly
 - Style is imported from `src/app.css`
+
+---
+
+## **Using Vite**
+
+Why use Vite?
+- Transpile - compilation phase that translates javascript
+- Bundling - uses esbuild to build site quickly
+
+How to use:
+1. Check for Node.js
+2. Check for NPM
+3. `npm create vite@latest`
+4. Enter project name
+5. Select framework
+6. Select framework variant
+7. `cd [project-name]`
+8. `npm install`
+9. `npm run dev`
+
+```
+
+Paige@Lenovo MINGW64 ~/Documents/Code/code_playground/Tutorials/Scrimba_LearnReactFree_Projects (main)
+$ node -v
+v16.14.2
+
+Paige@Lenovo MINGW64 ~/Documents/Code/code_playground/Tutorials/Scrimba_LearnReactFree_Projects (main)
+$ npm -v
+8.5.0
+
+Paige@Lenovo MINGW64 ~/Documents/Code/code_playground/Tutorials/Scrimba_LearnReactFree_Projects (main)
+$ npm create vite@latest
+Need to install the following packages:
+  create-vite@latest
+Ok to proceed? (y) y
+√ Project name: ... react-site
+√ Select a framework: » react
+√ Select a variant: » react
+
+Scaffolding project in C:\Users\aweso\Documents\Code\code_playground\Tutorials\Scrimba_LearnReactFree_Projects\react-site...
+
+Done. Now run:
+
+  cd react-site
+  npm install
+  npm run dev
+
+
+Paige@Lenovo MINGW64 ~/Documents/Code/code_playground/Tutorials/Scrimba_LearnReactFree_Projects (main)
+$ cd react-site
+
+Paige@Lenovo MINGW64 ~/Documents/Code/code_playground/Tutorials/Scrimba_LearnReactFree_Projects/react-site (main)
+$ npm install
+
+added 86 packages, and audited 87 packages in 7s  
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Paige@Lenovo MINGW64 ~/Documents/Code/code_playground/Tutorials/Scrimba_LearnReactFree_Projects/react-site (main)
+$ npm run dev
+
+> react-site@0.0.0 dev
+> vite
+
+
+  VITE v3.0.9  ready in 3936 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Network: use --host to expose
+
+```
+
+
+---
+
+## **Quick Start with React.js**
+
+- Add information to the `head` element that accesses the libraries needed (CDNs)
+- Add Babel and configure the `script` element
+- Add a `div` with ID 'root' to the `body` element
+
+**`index.html`:**
+```
+<html>
+	<head>
+		<link rel="stylesheet" href="index.css">
+		<script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
+		<script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+		<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+	</head>
+	<body>
+		<div id="root"></div>
+		<script src="index.js" type="text/babel"></script>
+	</body>
+</html>
+```
+**`index.css`**:
+```
+ReactDOM.render(<h1>Hello, everyone!</h1>, document.getElementById("root"))
+```

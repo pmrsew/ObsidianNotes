@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README_All-Notes.md",
+            "file": "WordPress/Installing-WordPress_Local.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 179.5
   },
   "right": {
     "id": "6fa390255349b0d7",
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README_All-Notes.md",
+                "file": "WordPress/Installing-WordPress_Local.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README_All-Notes.md"
+                "file": "WordPress/Installing-WordPress_Local.md"
               }
             }
           },
@@ -123,15 +123,15 @@
   },
   "active": "b645809937b4076f",
   "lastOpenFiles": [
-    "React/README_React.md",
-    "README_All-Notes.md",
-    "React/Forms_Uncontrolled-and-Controlled-Components.md",
     "React/UnsortedNotesFromScrimbaReactCourse.md",
-    "React/Asynchronous-Data.md",
-    "React/02_Courses.md",
-    "React/01_Links.md",
-    "React/UnsortedNotesFromLILReactEssentialTraining.md",
-    "React/Redux.md",
-    "React/React-Router.md"
+    "WordPress/Installing-WordPress_Local.md",
+    "README_All-Notes.md",
+    "React/README_React.md",
+    "React/04_Starting-React-Application-Creation.md",
+    "React/11_Redux.md",
+    "React/10_React-Router.md",
+    "React/09_Asynchronous-Data.md",
+    "React/07_Forms_Uncontrolled-and-Controlled-Components.md",
+    "React/08_Hooks.md"
   ]
 }

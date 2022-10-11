@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WordPress/Installing-WordPress_Local.md",
+            "file": "WordPress/Glossary-of-Terms.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WordPress/Installing-WordPress_Local.md",
+                "file": "WordPress/Glossary-of-Terms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WordPress/Installing-WordPress_Local.md"
+                "file": "WordPress/Glossary-of-Terms.md"
               }
             }
           },
@@ -123,8 +123,8 @@
   },
   "active": "b645809937b4076f",
   "lastOpenFiles": [
-    "React/UnsortedNotesFromScrimbaReactCourse.md",
     "WordPress/Installing-WordPress_Local.md",
+    "React/UnsortedNotesFromScrimbaReactCourse.md",
     "README_All-Notes.md",
     "React/README_React.md",
     "React/04_Starting-React-Application-Creation.md",
